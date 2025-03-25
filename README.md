@@ -7,4 +7,4 @@
 ## 📊 Moje statystyki:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deerion&show_icons=true&theme=radical)
 
-🚀 Zapraszam do mojego repozytorium ➜ [Moje portfolio](https://github.com/JanKowalski/portfolio)
+<!--  🚀 Zapraszam do mojego repozytorium ➜ [Moje portfolio](https://github.com/JanKowalski/portfolio)  -->
