@@ -1,6 +1,7 @@
 # 👋 Cześć! Jestem Hubert
 
 Czym się zajmuję:
+
 💻 Programista | 🚀 Pasjonat technologii  
 🔌 Proste projekty Arduino 
 <!--  🎯 Specjalizuję się w: Python, JavaScript, React  -->
