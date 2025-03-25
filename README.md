@@ -1,7 +1,8 @@
-# 👋 Cześć! Jestem Hubert Jarosz 
+# 👋 Cześć! Jestem Hubert
 
 💻 Programista | 🚀 Pasjonat technologii  
-🎯 Specjalizuję się w: Python, JavaScript, React  
+🔌 Proste projekty Arduino 
+<!--  🎯 Specjalizuję się w: Python, JavaScript, React  -->
 📫 Kontakt: jaroszhubert12@gmail.com
 
 ## 📊 Moje statystyki:
