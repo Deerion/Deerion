@@ -2,7 +2,7 @@
 
 💻 Programista | 🚀 Pasjonat technologii  
 🎯 Specjalizuję się w: Python, JavaScript, React  
-📫 Kontakt: jan.kowalski@email.com  
+📫 Kontakt: jaroszhubert12@gmail.com
 
 ## 📊 Moje statystyki:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deerion&show_icons=true&theme=radical)
