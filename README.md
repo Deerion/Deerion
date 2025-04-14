@@ -15,7 +15,7 @@ Czym się zajmuję:
 🖥️ Narzędzia, które używam
 IDE od JetBrains: IntelliJ IDEA, CLion, WebStorm, PyCharm i inne
 
-Matlab, 3ds Max, 
+Matlab, 3ds Max
 
 GitKraken - do wersjonowania kodu i współpracy z zespołem.
 
