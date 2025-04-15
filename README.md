@@ -8,7 +8,8 @@ Czym się zajmuję:
 📫 Kontakt: jaroszhubert12@gmail.com
 
 ## 📊 Moje statystyki:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deerion&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deerion&show_icons=true&theme=radical&cache_seconds=1800)
+
 
 <!--  🚀 Zapraszam do mojego repozytorium ➜ [Moje portfolio](https://github.com/JanKowalski/portfolio)  -->
 
